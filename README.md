@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MzMaXaM
-
+- 👋 Hi, I’m Max
+- aspiring WebDev ✨
 
 
 <!---
